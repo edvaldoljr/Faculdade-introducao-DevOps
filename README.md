@@ -32,6 +32,8 @@ No capítulo Introdução ao DevOps, da obra *DevOps*, base teórica desta Unida
 
 Boa leitura.
 
-https://github.com/edvaldoljr/Faculdade-introducao-DevOps/blob/main/pdf/Introducao-DevOps.pdf
+**[Download do Livro](https://github.com/edvaldoljr/Faculdade-introducao-DevOps/blob/main/pdf/Introducao-DevOps.pdf)**
+
+
 
 <img src="https://github.com/edvaldoljr/Faculdade-introducao-DevOps/blob/main/img/Livro-DevOps.png?raw=true" style="zoom: 25%;" />
